@@ -1,6 +1,6 @@
 # Frontend Mentor - Solução do Weather App
 
-Esta é a minha solução para o [desafio Weather App no Frontend Mentor](https://www.frontendmentor.io/challenges/weather-app-K1FhddVm49).
+Este projeto é baseado no [desafio Weather App no Frontend Mentor](https://www.frontendmentor.io/challenges/weather-app-K1FhddVm49). **Adaptei o projeto original (em inglês) para português brasileiro**, incluindo tradução da interface, formatação de datas e localização adequada.
 
 ## Sumário
 
@@ -11,7 +11,14 @@ Esta é a minha solução para o [desafio Weather App no Frontend Mentor](https:
 - [Como usar](#como-usar)
 - [Meu processo](#meu-processo)
   - [Construído com](#construido-com)
+  - [Funcionalidades implementadas](#funcionalidades-implementadas)
+    - [Sistema de Unidades Flexível](#sistema-de-unidades-flexível)
+    - [Dados climáticos em tempo real](#dados-climáticos-em-tempo-real)
+    - [Design Responsivo](#design-responsivo)
+    - [Busca Inteligente](#busca-inteligente)
   - [O que aprendi](#o-que-aprendi)
+    - [Arquitetura de Software](#arquitetura-de-software)
+    - [Consumo de APIs](#consumo-de-APIs)
   - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
 - [Autor](#autor)
 
@@ -46,11 +53,11 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Site online (deploy): [Acessar site](https://sneakers-ecommerce-product-page-vert.vercel.app/)
+- Site online (deploy): [Acessar site](https://weather-app-six-olive-86.vercel.app/)
 
 ## Como usar
 
-1. Acesse o site: [https://seu-weather-app.vercel.app/](https://seu-weather-app.vercel.app/)
+1. Acesse o site: [weather-app](https://weather-app-six-olive-86.vercel.app/)
 2. Digite o nome de uma cidade na barra de pesquisa
 3. Pressione Enter ou clique no ícone de busca
 4. Visualize as informações climáticas atualizadas
@@ -149,4 +156,3 @@ async getLocation(location) {
 - Frontend Mentor - [@jamillyferreira](https://www.frontendmentor.io/profile/jamillyferreira)
 - LinkedIn - [@jamillyferreira](https://www.linkedin.com/in/jamillyferreira/)
 - GitHub - [jamillyferreira](https://github.com/jamillyferreira)
-
